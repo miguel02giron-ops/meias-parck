@@ -1,0 +1,59 @@
+loja-de-meias/
+├── README.md
+├── .gitignore
+├── docs/
+│   ├── identidade-visual/
+│   └── plano-de-negocios.md
+├── catalogo/
+│   ├── meias-casuais/
+│   │   ├── listradas/
+│   │   ├── estampadas/
+│   │   └── lisas/
+│   ├── meias-esportivas/
+│   │   ├── cano-curto/
+│   │   ├── cano-alto/
+│   │   └── compressao/
+│   ├── meias-sociais/
+│   ├── meias-termicas/
+│   ├── meias-infantis/
+│   ├── meias-divertidas/
+│   │   ├── animais/
+│   │   ├── frutas/
+│   │   └── edicoes-limitadas/
+│   └── kits-presente/
+├── estoque/
+│   ├── entradas/
+│   ├── saidas/
+│   └── inventario/
+├── fornecedores/
+│   ├── contratos/
+│   └── pedidos-de-compra/
+├── vendas/
+│   ├── pedidos/
+│   ├── clientes/
+│   ├── devolucoes-trocas/
+│   └── relatorios/
+├── marketing/
+│   ├── campanhas/
+│   │   ├── dia-dos-namorados/
+│   │   ├── black-friday/
+│   │   └── natal/
+│   ├── redes-sociais/
+│   ├── fotos-produtos/
+│   └── email-newsletter/
+├── site/
+│   ├── public/
+│   │   ├── imagens/
+│   │   └── fontes/
+│   └── src/
+│       ├── componentes/
+│       ├── paginas/
+│       └── estilos/
+├── logistica/
+│   ├── embalagens/
+│   ├── transportadoras/
+│   └── etiquetas-de-envio/
+└── financeiro/
+    ├── notas-fiscais/
+    ├── contas-a-pagar/
+    └── contas-a-receber/
