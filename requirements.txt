@@ -1,0 +1,4 @@
+# Dependências do arquivo.py
+# O script usa apenas a biblioteca padrão do Python (sys, pathlib),
+# então não há pacotes externos para instalar.
+# Requer Python 3.6 ou superior.
